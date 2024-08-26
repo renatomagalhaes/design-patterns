@@ -1,0 +1,9 @@
+/vendor
+.env
+.phpunit.result.cache
+/.phpunit.cache
+/.fleet
+/.idea
+/.vscode
+/.DS_Store
+/node_modules
