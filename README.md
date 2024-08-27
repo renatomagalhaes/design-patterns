@@ -39,7 +39,11 @@ Este repositório contém uma coleção de exemplos de padrões de projeto imple
 ## Estrutura do Repositório
 
 - **/docs**: Documentação detalhada de cada padrão de projeto, explicando conceitos teóricos, benefícios e exemplos de aplicação.
-- **/src**: Exemplos de código para cada padrão de projeto, organizados por versão do PHP (7.4 e 8.2).
+- **/src**: Exemplos de código para cada padrão de projeto, organizados por versão do PHP (7.4 e 8.2) e Golang.
+
+## Versões Disponíveis
+1. **[PHP 7.4](src/PHP-7.4.md)**
+2. **[Golang](src/Golang.md)**
 
 ## Como Utilizar
 
