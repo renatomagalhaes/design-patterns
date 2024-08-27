@@ -42,7 +42,7 @@ Este repositório contém uma coleção de exemplos de padrões de projeto imple
 - **/src**: Exemplos de código para cada padrão de projeto, organizados por versão do PHP (7.4 e 8.2) e Golang.
 
 ## Versões Disponíveis
-1. **[PHP 7.4](src/PHP-7.4.md)**
+1. **[PHP](src/PHP.md)**
 2. **[Golang](src/Golang.md)**
 
 ## Como Utilizar
